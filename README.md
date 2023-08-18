@@ -28,7 +28,9 @@
 
 1. 下载OpenAI的whisper的small模型，并重命名为`small.pt`，放于`./models/small.pt`。（或者从此链接下载相应模型）
 
-2. 根据此链接（https://drive.google.com/file/d/1xvPerX0FhjlGllYc-dkjT7xEzlIhvL85/view?usp=share_link）下载`export.pkl`模型，并放入`./category_predict/models/export.pkl`。
+2. 根据此链接（https://drive.google.com/file/d/1xvPerX0FhjlGllYc-dkjT7xEzlIhvL85/view?usp=share_link）
+
+   下载`export.pkl`模型，并放入`./category_predict/models/export.pkl`。
 
 3. 安装CUDA、torch（测试版本为1.9.1+cu111）、torchaudio（测试版本为0.9.1）、torchvision（测试版本为0.10.1+cu111） （没有CUDA应该可以安装CPU版的，但是速度较慢）
 
