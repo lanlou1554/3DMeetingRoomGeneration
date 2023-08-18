@@ -1,0 +1,405 @@
+{
+  "LayoutObjects": [
+    {
+      "id": "Room001",
+      "type": "room",
+      "xPosition": 2.174,
+      "yPosition": 0.0,
+      "zPosition": 2.174,
+      "xRotation": 0.0,
+      "yRotation": 0.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Desk010",
+      "type": "desk",
+      "xPosition": 0.0,
+      "yPosition": 0.0,
+      "zPosition": 0.0,
+      "xRotation": 0.0,
+      "yRotation": 0.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair007",
+      "type": "chair",
+      "xPosition": -0.0,
+      "yPosition": 0.0,
+      "zPosition": -1.553,
+      "xRotation": 0.0,
+      "yRotation": -180.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair007",
+      "type": "chair",
+      "xPosition": -1.553,
+      "yPosition": 0.0,
+      "zPosition": 0.0,
+      "xRotation": 0.0,
+      "yRotation": -90.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair007",
+      "type": "chair",
+      "xPosition": 0.0,
+      "yPosition": 0.0,
+      "zPosition": 1.553,
+      "xRotation": 0.0,
+      "yRotation": 0.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair007",
+      "type": "chair",
+      "xPosition": 1.553,
+      "yPosition": 0.0,
+      "zPosition": 0.0,
+      "xRotation": 0.0,
+      "yRotation": 90.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 8.388,
+      "yPosition": 0.0,
+      "zPosition": -4.04,
+      "xRotation": 0.0,
+      "yRotation": -244.286,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 5.805,
+      "yPosition": 0.0,
+      "zPosition": -7.279,
+      "xRotation": 0.0,
+      "yRotation": -218.571,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 2.072,
+      "yPosition": 0.0,
+      "zPosition": -9.077,
+      "xRotation": 0.0,
+      "yRotation": -192.857,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -2.072,
+      "yPosition": 0.0,
+      "zPosition": -9.077,
+      "xRotation": 0.0,
+      "yRotation": -167.143,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -5.805,
+      "yPosition": 0.0,
+      "zPosition": -7.279,
+      "xRotation": 0.0,
+      "yRotation": -141.429,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -8.388,
+      "yPosition": 0.0,
+      "zPosition": -4.04,
+      "xRotation": 0.0,
+      "yRotation": -115.714,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -9.31,
+      "yPosition": 0.0,
+      "zPosition": 0.0,
+      "xRotation": 0.0,
+      "yRotation": -90.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -8.388,
+      "yPosition": 0.0,
+      "zPosition": 4.04,
+      "xRotation": 0.0,
+      "yRotation": -64.286,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -5.805,
+      "yPosition": 0.0,
+      "zPosition": 7.279,
+      "xRotation": 0.0,
+      "yRotation": -38.571,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -2.072,
+      "yPosition": 0.0,
+      "zPosition": 9.077,
+      "xRotation": 0.0,
+      "yRotation": -12.857,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 2.072,
+      "yPosition": 0.0,
+      "zPosition": 9.077,
+      "xRotation": 0.0,
+      "yRotation": 12.857,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 5.805,
+      "yPosition": 0.0,
+      "zPosition": 7.279,
+      "xRotation": 0.0,
+      "yRotation": 38.571,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 8.388,
+      "yPosition": 0.0,
+      "zPosition": 4.04,
+      "xRotation": 0.0,
+      "yRotation": 64.286,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 9.31,
+      "yPosition": 0.0,
+      "zPosition": 0.0,
+      "xRotation": 0.0,
+      "yRotation": 90.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 6.276,
+      "yPosition": 0.0,
+      "zPosition": -4.56,
+      "xRotation": 0.0,
+      "yRotation": -234.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 2.397,
+      "yPosition": 0.0,
+      "zPosition": -7.378,
+      "xRotation": 0.0,
+      "yRotation": -198.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -2.397,
+      "yPosition": 0.0,
+      "zPosition": -7.378,
+      "xRotation": 0.0,
+      "yRotation": -162.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -6.276,
+      "yPosition": 0.0,
+      "zPosition": -4.56,
+      "xRotation": 0.0,
+      "yRotation": -126.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -7.758,
+      "yPosition": 0.0,
+      "zPosition": 0.0,
+      "xRotation": 0.0,
+      "yRotation": -90.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -6.276,
+      "yPosition": 0.0,
+      "zPosition": 4.56,
+      "xRotation": 0.0,
+      "yRotation": -54.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -2.397,
+      "yPosition": 0.0,
+      "zPosition": 7.378,
+      "xRotation": 0.0,
+      "yRotation": -18.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 2.397,
+      "yPosition": 0.0,
+      "zPosition": 7.378,
+      "xRotation": 0.0,
+      "yRotation": 18.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 6.276,
+      "yPosition": 0.0,
+      "zPosition": 4.56,
+      "xRotation": 0.0,
+      "yRotation": 54.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 7.758,
+      "yPosition": 0.0,
+      "zPosition": 0.0,
+      "xRotation": 0.0,
+      "yRotation": 90.0,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 3.869,
+      "yPosition": 0.0,
+      "zPosition": -4.851,
+      "xRotation": 0.0,
+      "yRotation": -218.571,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -1.381,
+      "yPosition": 0.0,
+      "zPosition": -6.05,
+      "xRotation": 0.0,
+      "yRotation": -167.143,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -5.591,
+      "yPosition": 0.0,
+      "zPosition": -2.692,
+      "xRotation": 0.0,
+      "yRotation": -115.714,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -5.591,
+      "yPosition": 0.0,
+      "zPosition": 2.692,
+      "xRotation": 0.0,
+      "yRotation": -64.286,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": -1.381,
+      "yPosition": 0.0,
+      "zPosition": 6.05,
+      "xRotation": 0.0,
+      "yRotation": -12.857,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 3.869,
+      "yPosition": 0.0,
+      "zPosition": 4.851,
+      "xRotation": 0.0,
+      "yRotation": 38.571,
+      "zRotation": 0.0
+    },
+    {
+      "id": "Chair028",
+      "type": "chair",
+      "xPosition": 6.205,
+      "yPosition": 0.0,
+      "zPosition": 0.0,
+      "xRotation": 0.0,
+      "yRotation": 90.0,
+      "zRotation": 0.0
+    }
+  ],
+  "dataForModify": {
+    "outer_chair": {
+      "id": "Chair028",
+      "width": 1.0,
+      "length": 1.0,
+      "height": 1.2
+    },
+    "inner_chair": {
+      "id": "Chair007",
+      "width": 1.0,
+      "length": 1.0,
+      "height": 1.0
+    },
+    "desk": {
+      "id": "Desk010",
+      "width": 1.0,
+      "length": 1.0,
+      "height": 0.7
+    },
+    "if_desk": true,
+    "inner_circle_chair_num": 4,
+    "inner_circle_num": 1,
+    "outer_circle_num": 3,
+    "people_number": 35,
+    "type": "fishbowl",
+    "table_color": "",
+    "outer_chair_color": "black",
+    "inner_chair_color": "",
+    "style": "",
+    "other_instruction": ""
+  }
+}

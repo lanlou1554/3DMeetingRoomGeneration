@@ -1,0 +1,60 @@
+scene-editing-language-version:1.0
+sentence-count:1
+sentence-0
+each chair is equipped with a table.
+entity-count:2
+entity-0
+id:chair-2
+plural:0
+count:1
+determiners:each
+attributes:1
+equipped
+relationship-count:1
+equipped with:table-7
+entity-1
+id:table-7
+plural:0
+count:1
+determiners:a
+attributes:0
+relationship-count:0
+command-count:2
+command-0
+verb:is
+applied:0
+attribute-count:0
+target-count:0
+command-1
+verb:equipped
+applied:0
+attribute-count:0
+target-count:0
+
+*** begin pretty print versions
+sentence-0
+each chair is equipped with a table.
+coreNLP result:
+det(chair-2, each-1~DT)
+nsubjpass(equipped-4, chair-2~NN)
+auxpass(equipped-4, is-3~VBZ)
+root(root-0, equipped-4~VBN)
+case(table-7, with-5~IN)
+det(table-7, a-6~DT)
+nmod:with(equipped-4, table-7~NN)
+punct(equipped-4, .-8~.)
+entity count: 2
+
+entity: chair-2
+  attributes: equipped,
+  determiners: each,
+  relationships: equipped with:table-7,
+entity: table-7
+  determiners: a,
+command count: 2
+command: is-3
+command: equipped-4
+
+
+=== for python ===
+[{"name":"chair", "index":"2","plural":"n","attributes":"equipped,","determiners":"each,","relationships":"equipped with:table-7,"},{"name":"table", "index":"7","plural":"n","determiners":"a,"}]

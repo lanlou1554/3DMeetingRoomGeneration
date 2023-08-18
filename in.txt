@@ -1,0 +1,2 @@
+java
+each chair is equipped with a table.
